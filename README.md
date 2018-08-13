@@ -1,2 +1,2 @@
-# JM_Threat_Modeling
+# Threat_Modeling
 Application Threat_Modeling
